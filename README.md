@@ -34,19 +34,13 @@
   <span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50"></span> &nbsp;
   About me :
 </h2>
+I believe everyone has a story to tell, and here is mine. Hi, I'm Dinesh Kumar Pandiyan, an Electronics and Communication Engineering graduate from Vickram College of Engineering, Madurai. I started my journey at Vadugapatti Government Higher Secondary School, Theni.
 
+After working briefly as a Process Analyst at Eximio Services Solution Pvt Ltd, I switched gears to web development. It all started with creating my first "Hello World!" application, and I've been hooked ever since.
 
-*  Blockchain Enthusiast
-*  Cryptocurrency Evangelist
-*  Influencer
-*  Inspirer
-*  Serial Entrepreneur (ie every business I started has failed)
-*  Founder (Omission)
-*  Philanthropist (Another Omission)
-*  Empowering (Something)
-*  Trendsetter
-*  Top 1% of Linkedin Profiles (According to Myself)
+Now, I'm passionate about software development, specializing in HTML, CSS, JavaScript, TypeScript, Angular, Node JS, Nest JS, Mongo DB, Maria DB, Git, and GitHub. I thrive in collaborative environments, always eager to learn and take on new challenges.
 
+I'm currently working at Valleypoint Technologies as a Fullstack Developer since November 2023. Excited about the next phase of my career, I'm eager to connect and contribute to innovative projects. Thanks for reading my story!
 <br><br>
 
 ###
