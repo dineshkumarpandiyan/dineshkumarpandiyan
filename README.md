@@ -22,7 +22,7 @@
 
 ###
 
-*  🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://dineshkumarpandiyan.github.io/portfolio/'>Portfolio</a>.
+*  🖥️  <a target="_blank" rel="noreferrer" href='https://dineshkumarpandiyan.github.io/portfolio/'>Click here</a> to see my portfolio.
 *  ✨  Creating bugs since Feb-2023.
 *  🤝  I'm open to collaborating on interesting projects as a developer.
 
