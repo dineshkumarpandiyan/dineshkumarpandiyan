@@ -1,156 +1,169 @@
-###
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dinesh%20Kumar%20Pandiyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Founder%20%7C%20Builder&descAlignY=55&descSize=16" width="100%" />
+</div>
+
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Founder+%40+Dream+Park+Solutions+%F0%9F%9A%80;Building+SendMyStyle+%F0%9F%91%95;Angular+%7C+Next.js+%7C+NestJS+Expert;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
+
+<br />
+
+<!-- Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshkumarpandiyan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  &nbsp;
+  <a href="https://dineshkumarpandiyan.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dineshkumarpandiyan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work" />
+</div>
+
+<br />
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const dinesh = {
+  name:       "Dinesh Kumar Pandiyan",
+  role:       "Full Stack Developer",
+  company:    "BookingBash FZ LLC, Dubai",
+  ventures:   ["Dream Park Solutions 🚀", "SendMyStyle 👕"],
+  location:   "Chennai, Tamil Nadu, India",
+  education:  "B.E. Electronics & Communication — Vickram College of Engineering",
+  passions:   ["Clean Architecture", "Scalable Systems", "Product Building"],
+  funFact:    "Creating bugs since Feb 2023 ✨",
+};
+```
+
+- 🏢 Fullstack Developer at **BookingBash FZ LLC, Dubai**
+- 🚀 Founder & CEO of **[Dream Park Solutions](https://dreamparksoltuions.com)**
+- 👕 Actively building **SendMyStyle** — custom apparel platform
+- 🎓 B.E. (ECE) from Vickram College of Engineering, Madurai
+- 🤝 Open to collaborating on impactful projects
+- 🖥️ Portfolio: [dineshkumarpandiyan.github.io/portfolio](https://dineshkumarpandiyan.github.io/portfolio/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nextjs,ts,js,html,css,tailwind,bootstrap" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Angular%20Material-E64A19?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+</div>
+
+### ⚙️ Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,kafka" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Microservices" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</div>
+
+### 🗄️ Database & Cache
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,postman,vercel" />
+</div>
+
+### 🎨 Design & Productivity
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
+
+### 💻 OS & IDE
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,webstorm" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+  <img src="https://github-profile-trophy.vercel.app/?username=dineshkumarpandiyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-###
+---
 
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"></div>
+## 📊 GitHub Stats
 
-<h1 align="center">
-  Hello, World! 
-  <span><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"></span> 
-  I'm Dinesh kumar
-</h1>
-
-<h2 align="center">🌍 A passionate Full Stack Developer based in Chennai, Tamilnadu, India.</h2>
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"></div>
-
-<br>
-
-###
-
-*  🖥️  <a target="_blank" rel="noreferrer" href='https://dineshkumarpandiyan.github.io/portfolio/'>Click here</a> to see my portfolio.
-*  ✨  Creating bugs since Feb-2023.
-*  🤝  I'm open to collaborating on interesting projects as a developer.
-
-<br><br>
-
-###
-
-<h2 align="left">
-  <span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50"></span> &nbsp;
-  About me :
-</h2>
-I believe everyone has a story to tell, and here is mine. Hi, I'm Dinesh Kumar Pandiyan, an Electronics and Communication Engineering graduate from Vickram College of Engineering, Madurai. I started my journey at Vadugapatti Government Higher Secondary School, Theni.
-
-After working briefly as a Process Analyst at Eximio Services Solution Pvt Ltd, I switched gears to web development. It all started with creating my first "Hello World!" application, and I've been hooked ever since.
-
-Now, I'm passionate about software development, specializing in HTML, CSS, JavaScript, TypeScript, Angular, Node JS, Nest JS, Mongo DB, Maria DB, Git, and GitHub. I thrive in collaborative environments, always eager to learn and take on new challenges.
-
-I'm currently working at Valleypoint Technologies as a Fullstack Developer since November 2023. Excited about the next phase of my career, I'm eager to connect and contribute to innovative projects. Thanks for reading my story!
-<br><br>
-
-###
-
-<h2 align="left">
-  <span float="right"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"></span> &nbsp; 
-  Skills :
-</h2>
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="css3 logo"  />
-  <img width="36" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="typescript logo"  />
-  <img width="36" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" width="36" height="36" alt="angularjs logo"  />
-  <img width="36" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="nodejs logo"  />
-  <img width="36" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" height="36" alt="nestjs logo"  />
-  <img width="36" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshkumarpandiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumarpandiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages" />
 </div>
 
-<br><br>
+<br />
 
-###
-
-<h2 align="left">
-  <span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50"> &nbsp; </span>
-  Operating System :
-</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="36" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="36" alt="ubuntu logo"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dineshkumarpandiyan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
+<br />
 
-<br><br>
-
-###
-
-<h2 align="left">
-  <span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="50"> &nbsp;</span>
-  IDE :
-</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="36" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="36" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webstorm/000000" height="36" alt="webstorm logo"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkumarpandiyan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-<br><br>
+---
 
-###
+## 🤝 Let's Connect
 
-<h2 align="left">
-  <span><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="50"> &nbsp;</span>
-  Basic Knowledges :
-</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="36" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="36" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="36" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="36" alt="premierepro logo"  />
-</div>
-
-<br><br>
-
-###
-
-<h2 align="left">
-  <span><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100"></span>
-  Socials :
-</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dineshkumarpandiyan/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="36" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="36" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="36" alt="instagram logo"  />
+  &nbsp;
+  <a href="https://github.com/dineshkumarpandiyan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/21462346/dinesh-kumar-p" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/dinesh_kumar_pandiyan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100007126547670" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://dineshkumarpandiyan.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
-###
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
