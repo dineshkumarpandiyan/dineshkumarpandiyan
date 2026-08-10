@@ -36,9 +36,9 @@
 ```typescript
 const dinesh = {
   name:       "Dinesh Kumar Pandiyan",
-  role:       "Full Stack Developer",
+  role:       "Software Engineer",
   company:    "BookingBash FZ LLC, Dubai",
-  ventures:   ["Dream Park Solutions 🚀", "SendMyStyle 👕"],
+  ventures:   ["SendMyStyle 👕"],
   location:   "Chennai, Tamil Nadu, India",
   education:  "B.E. Electronics & Communication — Vickram College of Engineering",
   passions:   ["Clean Architecture", "Scalable Systems", "Product Building"],
@@ -46,8 +46,7 @@ const dinesh = {
 };
 ```
 
-- 🏢 Fullstack Developer at **BookingBash FZ LLC, Dubai**
-- 🚀 Founder & CEO of **[Dream Park Solutions](https://dreamparksoltuions.com)**
+- 🏢 Software Engineer at **BookingBash FZ LLC, Dubai**
 - 👕 Actively building **SendMyStyle** — custom apparel platform
 - 🎓 B.E. (ECE) from Vickram College of Engineering, Madurai
 - 🤝 Open to collaborating on impactful projects
